@@ -1,0 +1,69 @@
+{
+  "pokemon": [
+    {
+      "name": "Salam\u00e8che",
+      "PV": 100,
+      "level": 1,
+      "powerLevel": 84,
+      "d\u00e9fense": 78,
+      "type": "Feu"
+    },
+    {
+      "name": "Carapuce",
+      "PV": 100,
+      "level": 1,
+      "powerLevel": 48,
+      "d\u00e9fense": 65,
+      "type": "Eau"
+    },
+    {
+      "name": "Bulbizarre",
+      "PV": 100,
+      "level": 1,
+      "powerLevel": 48,
+      "d\u00e9fense": 65,
+      "type": "Terre"
+    },
+    {
+      "name": "Ronflex",
+      "PV": 100,
+      "level": 1,
+      "powerLevel": 90,
+      "d\u00e9fense": 55,
+      "type": "Normal"
+    },
+    {
+        "name": "Dracaufeu",
+        "PV": 100,
+        "level": 1,
+        "powerLevel": 84,
+        "d\u00e9fense": 78,
+        "type": "Feu"
+    },
+    {
+        "name": "Léviator",
+        "PV": 100,
+        "level": 1,
+        "powerLevel": 125,
+        "d\u00e9fense": 79,
+        "type": "Eau"
+    },
+    {
+        "name": "Rondoudou",
+        "PV": 100,
+        "level": 1,
+        "powerLevel": 45,
+        "d\u00e9fense": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Arcanin",
+        "PV": 100,
+        "level": 1,
+        "powerLevel": 110,
+        "d\u00e9fense": 80,
+        "type": "Normal"
+    }
+
+  ]
+}

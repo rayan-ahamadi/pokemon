@@ -1,0 +1,36 @@
+{
+  "pokemon": [
+    {
+      "name": "Salam\u00e8che",
+      "PV": 100,
+      "level": 1,
+      "powerLevel": 84,
+      "d\u00e9fense": 78,
+      "type": "Feu"
+    },
+    {
+      "name": "Carapuce",
+      "PV": 100,
+      "level": 1,
+      "powerLevel": 48,
+      "d\u00e9fense": 65,
+      "type": "Eau"
+    },
+    {
+      "name": "Bulbizarre",
+      "PV": 100,
+      "level": 1,
+      "powerLevel": 48,
+      "d\u00e9fense": 65,
+      "type": "Terre"
+    },
+    {
+      "name": "Ronflex",
+      "PV": 100,
+      "level": 1,
+      "powerLevel": 50,
+      "d\u00e9fense": 65,
+      "type": "Normal"
+    }
+  ]
+}
